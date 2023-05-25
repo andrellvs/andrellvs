@@ -1,4 +1,4 @@
-### Hi guys, I'm Galisteo, a tech fan, passionate about retrogames, focusing on Raspberry PI 3 and PI4, micro boards like TX9 / TX3 mini, T95 max+ and Odroid N2+.
+### Saudações! Me chamo André! Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e agora recentemente tento ajudar o EmuELEC
 
 <div align="center">
   <a href="https://linktr.ee/galisteo">
