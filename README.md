@@ -1,8 +1,8 @@
 ### Saudações! Me chamo André! Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e agora recentemente tento ajudar o EmuELEC
 
 <div align="center">
-  <a href="https://linktr.ee/galisteo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galisteogames&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://linktr.ee/andrellvs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrellvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
   </div>
