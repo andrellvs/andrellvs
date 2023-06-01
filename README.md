@@ -13,7 +13,7 @@
 ![image](https://github.com/andrellvs/andrellvs/assets/29897064/cf5da34d-f302-4a13-b489-952fdb9fa31e)
 ![image](https://github.com/andrellvs/andrellvs/assets/29897064/cf5da34d-f302-4a13-b489-952fdb9fa31e)
 
-![image]()
+![image](https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/reward/uploaded_image/201514/thumb_reward_Turbo_Luxo.png)
 
 ### Saudações! Me chamo André! Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e agora recentemente tento ajudar o EmuELEC 
 
