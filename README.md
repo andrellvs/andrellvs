@@ -13,7 +13,10 @@
 ![image](https://github.com/andrellvs/andrellvs/assets/29897064/cf5da34d-f302-4a13-b489-952fdb9fa31e)
 ![image](https://github.com/andrellvs/andrellvs/assets/29897064/cf5da34d-f302-4a13-b489-952fdb9fa31e)
 
+<div align="center">
 ![image](https://static.wikia.nocookie.net/videogamebrasileiro/images/b/bb/Turbo_Game_CCE_VG-9000T_caixa_frente.jpg/revision/latest?cb=20220802002742&path-prefix=pt-br)
+</div>
+
 ### Saudações! Me chamo André! Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e agora recentemente tento ajudar o EmuELEC 
 
 
