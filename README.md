@@ -13,7 +13,7 @@
 ![image](https://github.com/andrellvs/andrellvs/assets/29897064/cf5da34d-f302-4a13-b489-952fdb9fa31e)
 ![image](https://github.com/andrellvs/andrellvs/assets/29897064/cf5da34d-f302-4a13-b489-952fdb9fa31e)
 
-![image]([http://1.bp.blogspot.com/-pnJE3_xY2js/ThvMVpwslII/AAAAAAAAAEM/P20onvGQAb0/s1600/IMG_5584.JPG](https://static.wikia.nocookie.net/videogamebrasileiro/images/b/bb/Turbo_Game_CCE_VG-9000T_caixa_frente.jpg/revision/latest?cb=20220802002742&path-prefix=pt-br)
+![image](http://1.bp.blogspot.com/-pnJE3_xY2js/ThvMVpwslII/AAAAAAAAAEM/P20onvGQAb0/s1600/IMG_5584.JPG](https://static.wikia.nocookie.net/videogamebrasileiro/images/b/bb/Turbo_Game_CCE_VG-9000T_caixa_frente.jpg/revision/latest?cb=20220802002742&path-prefix=pt-br)
 ### Saudações! Me chamo André! Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e agora recentemente tento ajudar o EmuELEC 
 
 
