@@ -15,7 +15,7 @@ Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e ag
   <img align="center" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />  
   <img align="center" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />  
   <img align="center" height="60" width="80"  src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" /> 
-  <img align="center" height="60" width="80"  src="[https://pt.wikipedia.org/wiki/Microsoft_Windows#/media/Ficheiro:Windows_logo_and_wordmark_-_2021.svg](https://pt.wikipedia.org/wiki/Microsoft_Windows#/media/Ficheiro:Windows_logo_and_wordmark_-_2021.svg)" /> 
+  <img align="center" height="60" width="80"  src="https://pt.wikipedia.org/wiki/Microsoft_Windows#/media/Ficheiro:Windows_logo_and_wordmark_-_2021.svg" /> 
 
 
   
