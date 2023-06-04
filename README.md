@@ -14,7 +14,7 @@ Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e ag
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" /> 
   <img align="center" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />  
   <img align="center" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />  
-  <img align="center" height="60" width="80"  src="  https://freesvg.org/img/1634286576ubuntu.png" />  
+  <img align="center" height="60" width="80"  src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" />  
 
   
   
