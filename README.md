@@ -3,6 +3,19 @@ Saudações! Me chamo André!
 =
 Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e agora recentemente tento ajudar o EmuELEC 
 
+<p align="center">
+  <strong>
+    <a href="https://kodi.tv/">website</a>
+    •
+    <a href="https://kodi.wiki/view/Main_Page">docs</a>
+    •
+    <a href="https://forum.kodi.tv/">community</a>
+    •
+    <a href="https://kodi.tv/addons">add-ons</a>
+  </strong>
+</p>
+
+
 <div align="center">
   <a href="https://linktr.ee/andrellvs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrellvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
