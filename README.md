@@ -1,5 +1,5 @@
 ![image](https://github.com/andrellvs/andrellvs/assets/29897064/cf5da34d-f302-4a13-b489-952fdb9fa31e)
-Saudações! Me chamo André! 
+Saudações do BRASIL! Me chamo André! 
 =
 Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e agora recentemente tento ajudar o EmuELEC 
 
