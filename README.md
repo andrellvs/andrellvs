@@ -23,12 +23,13 @@ Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e ag
   
   </div>
   <div style="display: inline_block"><br>
-  <img align="right" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+  <img align="right" height="200" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" /> 
   <img align="center" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />  
   <img align="center" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />  
   <img align="center" height="60" width="80"  src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" /> 
-  <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="80"/>
+  <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="80" width="100"/>
+  <img src="https://wikimovel.com/images/thumb/6/66/Amlogic-S905X.png/1120px-Amlogic-S905X.png" height="100" width="100"/>
   </div>
 
  ##
