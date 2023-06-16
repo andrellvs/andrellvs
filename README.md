@@ -19,7 +19,9 @@ Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e ag
   <a href="https://linktr.ee/andrellvs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrellvs&show_icons=true&theme=clear&include_all_commits=true&count_private=true"/>
 </div>
+  
  *** 
+  
   </div>
   <div style="display: inline_block"><br>
   <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
