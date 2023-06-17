@@ -2,7 +2,7 @@
 ### Saudações do BRASIL! Me chamo André! 
 
 ***
-Sou entusiasta de RETRO-GAMES,há alguns anos participo do projeto RETROPIE e agora recentemente tento ajudar o EmuELEC 
+Sou entusiasta de RETRO-GAMES,há alguns anos usuário do projeto RETROPIE e agora recentemente tento o EmuELEC 
 
 <p align="center">
   <strong>
